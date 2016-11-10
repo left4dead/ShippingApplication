@@ -1,0 +1,8 @@
+model\Goods.class
+model\Package.class
+config\RESTConfig.class
+controllers\PackageController.class
+service\PackageServiceInMemory.class
+config\ApplicationInitializer.class
+controllers\GoodsController.class
+service\GoodsServiceInMemory.class
